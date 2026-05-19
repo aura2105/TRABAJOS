@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    //int x = 100 + 50;
+    //cout << "Resultado de x: " << x << endl
+
+    double suma = 3.5 + 7.75;
+    cout << "La suma es: " << suma << endl;
+
+    return 0;
+}
